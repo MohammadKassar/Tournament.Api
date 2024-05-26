@@ -1,0 +1,6 @@
+@Tournament.Api_HostAddress = http://localhost:7146
+
+GET https://localhost:7146/api/Tournaments
+Accept: application/json
+
+###
